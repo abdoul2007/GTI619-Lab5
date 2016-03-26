@@ -1,12 +1,3 @@
-DROP DATABASE IF EXISTS GTI619;
-
--- Creation de la base de données
-CREATE DATABASE GTI619;
-
-USE GTI619;
-
--- Création de la table des roles
-CREATE TABLE ROLE
 
 DROP DATABASE IF EXISTS GTI619;
 
