@@ -1,0 +1,9 @@
+http://www.sitepoint.com/hashing-passwords-php-5-5-password-hashing-api/     hashage du mot de passe en php
+https://scotch.io/tutorials/simple-and-easy-laravel-login-authentication    
+
+https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel/l-authentification
+
+php artisan migrate:reset		supprimer toutes les tables
+php artisan make:auth 			créer routes et vues… en gros tout ce qui est nécessaire pour s’enregistrer, se connecter, se déconnecter, récupérer un mot de passe…
+Le trait ThrottlesLogins est destiné à mettre en place une protection contre les attaques "brute force" (https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel/l-authentification)
+http://laravel.sillo.org/laravel-5-2-les-nouveautes/    role et permissions
