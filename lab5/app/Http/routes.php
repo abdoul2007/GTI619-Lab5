@@ -15,6 +15,12 @@ Route::get('/', 'WelcomeController@index');
 
 Route::get('home', 'HomeController@index');
 
+Route::get('Administrateur', 'AdminController@index');
+
+Route::get('PreposeAuCarre', 'PreposeAuCarreController@index');
+
+Route::get('PreposeAuCercle', 'PreposeAuCercleController@index');
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
