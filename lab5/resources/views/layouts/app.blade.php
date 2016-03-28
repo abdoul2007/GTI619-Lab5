@@ -40,7 +40,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Gestion Utilisateurs
+                    Sécurité informatique
                 </a>
             </div>
 
