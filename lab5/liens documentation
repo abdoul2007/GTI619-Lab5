@@ -17,3 +17,4 @@ INSERER IMAGE <img src="{{ asset('dist/img/user2-160x160.jpg') }}" class="img-ci
 http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp    ELEMENT BOOTSTARP
 https://github.com/Zizaco/entrust
 https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel/l-authentification
+https://packagist.org/packages/zizaco/entrust
