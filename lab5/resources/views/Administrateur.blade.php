@@ -14,7 +14,7 @@
 					  <li><a data-toggle="tab" href="#menu2">Politique de mot de passe</a></li>
 					  <li><a data-toggle="tab" href="#menu3">Gestion des rôles</a></li>
 					</ul>
-
+ <!-- test-->
 					<div class="tab-content">
 					  <div id="home" class="tab-pane fade in active">
 					    <h3>HOME</h3>
