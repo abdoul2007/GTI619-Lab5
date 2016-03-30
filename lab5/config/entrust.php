@@ -7,7 +7,7 @@
  * @license MIT
  * @package Zizaco\Entrust
  */
-
+/*dd*/
 return [
 
     /*
