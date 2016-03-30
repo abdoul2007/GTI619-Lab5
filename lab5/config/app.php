@@ -162,8 +162,9 @@ return [
         /*
          * Package pour les roles et permissions
          */
-        /*App\Providers\EntrustCustomServiceProvider::class*/
-        'Zizaco\Entrust\EntrustServiceProvider'
+        //App\Providers\EntrustCustomServiceProvider::class
+        /*'Zizaco\Entrust\EntrustServiceProvider',*/
+        Zizaco\Entrust\EntrustServiceProvider::class,
 
     ],
 
@@ -213,6 +214,8 @@ return [
         'Form'  => Collective\Html\FormFacade::class,
         'Html'  => Collective\Html\HtmlFacade::class,
         'Entrust' => Zizaco\Entrust\EntrustFacade::class,
+
+
 
     ],
 
