@@ -7,3 +7,13 @@ php artisan migrate:reset		supprimer toutes les tables
 php artisan make:auth 			créer routes et vues… en gros tout ce qui est nécessaire pour s’enregistrer, se connecter, se déconnecter, récupérer un mot de passe…
 Le trait ThrottlesLogins est destiné à mettre en place une protection contre les attaques "brute force" (https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel/l-authentification)
 http://laravel.sillo.org/laravel-5-2-les-nouveautes/    role et permissions
+
+http://alexsears.com/article/adding-roles-to-laravel-users/     role et user
+
+CHANGER CSS <link rel="stylesheet" href="{{ URL::asset('css/somestylesheet.css') }}" />
+
+INSERER IMAGE <img src="{{ asset('dist/img/user2-160x160.jpg') }}" class="img-circle" alt="User Image"/>
+
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp    ELEMENT BOOTSTARP
+https://github.com/Zizaco/entrust
+https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel/l-authentification
