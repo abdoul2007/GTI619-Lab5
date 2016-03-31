@@ -163,6 +163,7 @@ return [
          * Package pour les roles et permissions
          */
        /* App\Providers\EntrustCustomServiceProvider::class*/
+       Zizaco\Entrust\EntrustServiceProvider::class,
         'Zizaco\Entrust\EntrustServiceProvider'
 
     ],
